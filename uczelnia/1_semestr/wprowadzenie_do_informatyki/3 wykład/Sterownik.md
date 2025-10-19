@@ -1,0 +1,1 @@
+Zarówno układ elektroniczny jak i program, który kontroluje impulsy elektryczne sterujące urządzeniem zewnętrznym.

@@ -1,1 +1,3 @@
-A
+Kosz złożoności algorytmu:
+- pamięć
+- czas

@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "785468b77864f7ee",
+        "id": "1d34107a83b12e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "2b702417a828c2c0",
+            "id": "a3a3edba5fbbbf7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "uczelnia/1_semestr/algebra_liniowa/2 wykład/2 wykład.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nowa karta"
+              "title": "2 wykład"
+            }
+          },
+          {
+            "id": "048bb55c85861fa3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Widok grafu"
+            }
+          },
+          {
+            "id": "5a1e7126496e73fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Badanie zbieżności.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Badanie zbieżności"
+            }
+          },
+          {
+            "id": "fb1a702886662aa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Kryterium porównawcze.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kryterium porównawcze"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,41 +207,37 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b702417a828c2c0",
+  "active": "fb1a702886662aa7",
   "lastOpenFiles": [
-    "uczelnia/1_semestr/matematyka_ze_statystyką/3 wykład/3 wykład.md",
-    "media/Pasted image 20251019164857.png",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/Matematyka ze statystyką.md",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/3 wykład",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
-    "uczelnia/1_semestr/algorytmy/3 wykład/Sprawność algorytmów.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/3 wykład/3 wykład.md",
-    "uczelnia/1_semestr/algorytmy/Bez nawy",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/3 wykład/Zasady dynamiki.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/3 wykład",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Architektura Harvardzka.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/3 wykład.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Port.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/DMA.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Sterownik.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Taksonomia Flynna.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/RISC i CISC.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/Wprowadzenie do informatyki.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Architektura von Neumann'a.md",
-    "Excalidraw/magistrala.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład/Przetwarzanie danych.md",
-    "Excalidraw/Przetwarzanie danych_obrazek.md",
-    "uczelnia/1_semestr/programowanie/Programowanie.md",
-    "uczelnia/1_semestr/algebra_liniowa/2 wykład/Wzory eulera.md",
-    "uczelnia/1_semestr/programowanie/2 wykład/Untitled.md",
-    "uczelnia/1_semestr/wprowadzenie_do_informatyki/3 wykład",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Badanie zbieżności.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Kryterium porównawcze.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szeregi liczbowe.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szereg harmoniczny.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Granica-Suma szeregu.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Zbieżność.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
     "uczelnia/1_semestr/algebra_liniowa/2 wykład/2 wykład.md",
     "uczelnia/1_semestr/algebra_liniowa/2 wykład/Pierwiastkowanie liczb zespolonych.md",
+    "uczelnia/1_semestr/algebra_liniowa/2 wykład/Wzory eulera.md",
     "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
     "media/Pasted image 20251013195607.png",
     "uczelnia/1_semestr/algebra_liniowa/1_wykład/Wzór de Moivre'a.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/2 wykład/Wzory na prędkość, pozycję, przyspieszenie.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/2 wykład/Całki.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/2 wykład/2 wykład.md",
+    "uczelnia/1_semestr/programowanie/1 wykład/Pierwszy program.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Funkcje.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Funkcja odwrotna.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Złożenie funkcji.md",
+    "Funkcje.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/2 sykład/2 wykład.md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Kryterium d'Alemberta (ułamkowe).md",
+    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Kryterium Cauche'ego (pierwiastkowe).md",
     "media/Pasted image 20251011092828.png",
     "media/Pasted image 20251011092804.png",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/2 sykład/Zapis liczb rzeczywistych.md",
+    "uczelnia/1_semestr/1 semestr.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/Wprowadzenie do informatyki.md",
     "uczelnia/1_semestr/wprowadzenie_do_informatyki/2 sykład",
     "uczelnia/1_semestr/algorytmy/3 wykład",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład",
@@ -211,6 +250,11 @@
     "media/Pasted image 20251006152754.png",
     "media/Pasted image 20251006152559.png",
     "media/Pasted image 20251006152512.png",
+    "media/Pasted image 20251006152238.png",
+    "media",
+    "uczelnia/1_semestr/algebra_liniowa/1_wykład",
+    "uczelnia/1_semestr/algebra_liniowa",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki",
     "Bez nazwy.canvas"
   ]
 }

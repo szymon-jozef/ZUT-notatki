@@ -1,0 +1,1 @@
+`Pamięć programu - Jednostka przetwarzająca - Pamięć danych`

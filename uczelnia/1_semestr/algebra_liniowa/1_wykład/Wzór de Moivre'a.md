@@ -10,3 +10,5 @@ To wskazuje na to, że po wymnożeniu dwóch liczb zespolonych otrzymujemy liczb
 - argument jest sumą argumentów liczb z oraz w
 ![[Pasted image 20251006152754.png]]
 Dzięki temu cudownemu wzorowi możemy podnosić liczby zespolone do dowolnych potęg!!!
+
+Tzn, że jak mamy liczbę zespoloną w postaci `|z| (cos fi + i sin fi)^n`(czyli trygonometrycznej) to możemy to n wyjebać i pomnożyć razy to n fi w cos i sin.

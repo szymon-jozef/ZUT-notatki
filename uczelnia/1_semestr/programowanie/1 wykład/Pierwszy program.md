@@ -6,6 +6,5 @@
 [[Wejścia-Wyjścia]]
 [[Iteracje]]
 [[Tablice]]
-[[Funkcje]]
 [[Wskaźniki]]
 Jednym słowem oczywiste oczywistości
