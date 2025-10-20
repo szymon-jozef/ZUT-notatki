@@ -80,7 +80,7 @@
   "additionalProperties": {},
   "backupGraphOptions": {
     "collapse-filter": false,
-    "search": "",
+    "search": "ciało",
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
@@ -141,7 +141,7 @@
     "linkStrength": 1,
     "linkDistance": 35,
     "scale": 0.6085603290091319,
-    "close": true
+    "close": false
   },
   "openInNewTab": false,
   "canonicalizePropertiesWithDataview": true,
