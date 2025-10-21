@@ -1,0 +1,3 @@
+[[Rezystancja]]
+[[Impedancja]]
+[[Admitancja]]

@@ -11,7 +11,7 @@ Skąd są te informacje? Większość rzeczy biorę z wykładów, dodatkowo jaki
 - https://forbot.pl/blog/kurs-elektroniki-multimetr-pomiary-rezystory-id3952#gallery-6
 
 ## Powaga
-Styl raczej merytoryczny z mniej poważnymi wtrętami. Ma być to przede wszystkim przyjemne do nauki :)
+Styl raczej niemerytoryczny. Pozdrawiam.
 
 ## PR
 Jeśli bardzo chcesz, możesz stworzyć PR prostujący jakieś informacje lub uzupełniający dany temat. 
