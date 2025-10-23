@@ -18,14 +18,15 @@ Spis:
 - Czyli inaczej to napięcie, które wypływa z zasilania musi do niego wrócić.
 - Najważniejsze, abyś zapamiętał, że **na podzespołach połączonych równolegle zawsze będzie to samo napięcie**, ponieważ są dołączone do tego samego zasilania. Natomiast **przy elementach połączonych szeregowo** suma napięć (spadków napięć) na poszczególnych elementach jest równa napięciu zasilającemu.
 
-# jednostki
+# Jednostki
+## Dodatnie
 - 10^1 - decy
 - 10^2 - hekto
 - 10^3 - kilo
 - 10^6 - mega
 - 10^9 - giga
 - 10^12 - tera
-
+## Ujemne
 - 10^-3 - mili
 - 10^-6 - mikro
 - 10^-9 - nano
@@ -35,4 +36,3 @@ Spis:
 - https://pl.khanacademy.org/science/ap-physics-1/ap-circuits-topic/kirchhoffs-loop-rule-ap/e/kirchhoff-s-loop-rule-numerical-exercises
 - https://pl.khanacademy.org/science/in-in-class10th-physics/in-in-electricity/in-in-circuits-ohms-law-resistance/e/ohm-s-law-and-resistance
 - https://2lo.edu.pl/tasks/Fizyka/1-4_Op%C3%B3rEl_PrawoOhma20221012T223844.pdf
-- 
