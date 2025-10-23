@@ -1,0 +1,2 @@
+[[Iteracja]]
+[[Rekurencja]]

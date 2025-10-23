@@ -1,1 +1,2 @@
 [[Sprawność algorytmów]]
+[[Przypadki]]

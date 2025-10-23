@@ -1,0 +1,2 @@
+- [[Funkcyjne]]
+- [[Obiektowe]]

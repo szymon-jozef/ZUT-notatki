@@ -1,0 +1,1 @@
+Zespół systemów komputerowych, sieci i oprogramowania, służący do przetwarzania informacji.

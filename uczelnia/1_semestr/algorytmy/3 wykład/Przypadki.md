@@ -1,0 +1,3 @@
+[[Pesymistyczny]]
+[[Optymistyczny]]
+[[Średni]]

@@ -1,0 +1,2 @@
+[[Asynchroniczność]]
+[[Równoległość]]

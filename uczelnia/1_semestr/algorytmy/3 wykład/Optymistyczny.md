@@ -1,0 +1,1 @@
+Najlepszy możliwy przypadek. Np. znalezienie w pierwszej iteracji.
