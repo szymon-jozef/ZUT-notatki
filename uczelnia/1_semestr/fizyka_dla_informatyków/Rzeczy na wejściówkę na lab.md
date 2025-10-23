@@ -1,7 +1,8 @@
 Spis:
-- [[#Kolory rezystorów]]
-- [[#Prawo Kirhoffa]]
-- [[#Zadania]]
+- [Kolory rezystorów](#Kolory%20rezystorów)
+- [Prawo Kirhoffa](#Prawo%20Kirhoffa)
+- [Prawo Omha](#Prawo%20Omha)
+- [Zadania](#Zadania)
 
 # Kolory rezystorów
 ![Pasted image 20251023102724](../../../media/Pasted%20image%2020251023102724.png)

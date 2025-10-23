@@ -1,0 +1,1 @@
+Liczymy te rzeczy sumami ciągów artmetycznych.
