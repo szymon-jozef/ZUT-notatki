@@ -1,2 +1,2 @@
-- [[uczelnia/1_semestr/algorytmy/1_wykład/Literatura]]
-- [[uczelnia/1_semestr/algorytmy/1_wykład/Zasady|Zasady]]
+- [Literatura](uczelnia/1_semestr/algorytmy/1_wykład/Literatura.md)
+- [Zasady](uczelnia/1_semestr/algorytmy/1_wykład/Zasady.md)

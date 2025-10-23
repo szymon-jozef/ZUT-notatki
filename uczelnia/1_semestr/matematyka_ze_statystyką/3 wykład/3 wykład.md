@@ -3,7 +3,7 @@ arc oznacza, że odwrotność, więc arcsin to odwrotność funkcji sin.
 arcsin 1/2 = π/6, bo sin π/6 = 1/2
 Prosta sprawa.
 
-[[../../algebra_liniowa/3 wykład/Dzielenie wielomianów|Dzielenie wielomianów]]
+[Dzielenie wielomianów](../../algebra_liniowa/3%20wykład/Dzielenie%20wielomianów.md)
 ## granica funkcji
 też to miałem w technikum xdddd
 

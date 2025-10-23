@@ -1,10 +1,10 @@
-[[Komentarze]]
-[[Struktura]]
-[[Operatory]]
-[[Typy danych]]
-[[Zmienne]]
-[[Wejścia-Wyjścia]]
-[[Iteracje]]
-[[Tablice]]
-[[Wskaźniki]]
+[Komentarze](Komentarze.md)
+[Struktura](Struktura.md)
+[Operatory](Operatory)
+[Typy danych](Typy%20danych.md)
+[Zmienne](Zmienne.md)
+[Wejścia-Wyjścia](Wejścia-Wyjścia.md)
+[Iteracje](Iteracje)
+[Tablice](Tablice)
+[Wskaźniki](Wskaźniki)
 Jednym słowem oczywiste oczywistości

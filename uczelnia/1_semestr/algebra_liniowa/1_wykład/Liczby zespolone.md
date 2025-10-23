@@ -1,8 +1,8 @@
-[[Co to?]]
-[[Budowa]]
-[[Ciało algebraiczne]]
-[[Liczba sprzężona]]
-[[Interpretacja geometryczna]]
-[[Moduł]]
-[[Postać trygonometryczna]]
-[[Wzór de Moivre'a]]
+[Co to?](Co%20to?.md)
+[Budowa](Budowa.md)
+[Ciało algebraiczne](Ciało%20algebraiczne.md)
+[Liczba sprzężona](Liczba%20sprzężona.md)
+[Interpretacja geometryczna](Interpretacja%20geometryczna.md)
+[Moduł](Moduł.md)
+[Postać trygonometryczna](Postać%20trygonometryczna.md)
+[Wzór de Moivre'a](Wzór%20de%20Moivre'a.md)

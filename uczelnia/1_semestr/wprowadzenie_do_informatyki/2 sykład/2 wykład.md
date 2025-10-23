@@ -1,1 +1,1 @@
-[[Zapis liczb rzeczywistych]]
+[Zapis liczb rzeczywistych](Zapis%20liczb%20rzeczywistych.md)

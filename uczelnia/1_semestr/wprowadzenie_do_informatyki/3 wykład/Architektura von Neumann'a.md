@@ -4,4 +4,4 @@ Podział komputera na trzy podstawowe części:
 - Procesor (część sterująca, część )
 - Pamięć
 - Urzędzenia wyjścia wyjścia
-![[../../../../Excalidraw/magistrala|magistrala]]
+![magistrala](../../../../Excalidraw/magistrala.md)

@@ -5,7 +5,7 @@ S1 = X1
 S2 = X1 + X2
 S3 = X1 + X2 + X3
 itd.
-[[Zbieżność]]
-[[Granica-Suma szeregu]]
-[[Szereg harmoniczny]]
-[[Badanie zbieżności]]
+[Zbieżność](Zbieżność.md)
+[Granica-Suma szeregu](Granica-Suma%20szeregu.md)
+[Szereg harmoniczny](Szereg%20harmoniczny.md)
+[Badanie zbieżności](Badanie%20zbieżności.md)

@@ -1,5 +1,5 @@
-- [[uczelnia/1_semestr/matematyka_ze_statystyką/1_wykład/Literatura|Literatura]] 
-- [[Zaliczenie]]
-- [[Zbiory liczbowe]]
-- [[Ciągi]] (nawet nie chce mi się nic o tym pisać, bo to dość oczywiste)
-- [[Granice ciągów]]
+- [Literatura](uczelnia/1_semestr/matematyka_ze_statystyką/1_wykład/Literatura.md) 
+- [Zaliczenie](Zaliczenie.md)
+- [Zbiory liczbowe](Zbiory%20liczbowe.md)
+- [Ciągi](Ciągi) (nawet nie chce mi się nic o tym pisać, bo to dość oczywiste)
+- [Granice ciągów](Granice%20ciągów)

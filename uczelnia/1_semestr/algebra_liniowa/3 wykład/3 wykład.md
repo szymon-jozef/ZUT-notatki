@@ -1,1 +1,1 @@
-[[Wielomiany]]
+[Wielomiany](Wielomiany.md)

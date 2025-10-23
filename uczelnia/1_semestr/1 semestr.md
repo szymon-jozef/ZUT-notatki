@@ -1,6 +1,6 @@
-[[Algorytmy]]
-[[Matematyka ze statystyką]]
-[[Fizyka dla informatyków]]
-[[Programowanie]]
-[[Algebra liniowa]]
-[[wprowadzenie_do_informatyki/Wprowadzenie do informatyki|Wprowadzenie do informatyki]]
+[Algorytmy](Algorytmy.md)
+[Matematyka ze statystyką](Matematyka%20ze%20statystyką.md)
+[Fizyka dla informatyków](Fizyka%20dla%20informatyków.md)
+[Programowanie](Programowanie.md)
+[Algebra liniowa](Algebra%20liniowa.md)
+[Wprowadzenie do informatyki](wprowadzenie_do_informatyki/Wprowadzenie%20do%20informatyki.md)

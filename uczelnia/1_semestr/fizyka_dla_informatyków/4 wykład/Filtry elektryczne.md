@@ -5,4 +5,4 @@ Obwody elektryczne wydzielające z sygnału elektrycznego przebiegi o częstotli
 - pasmozaporowe
 - pasmowoprzepustowy
 
-[[Filtry LC]]
+[Filtry LC](Filtry%20LC.md)

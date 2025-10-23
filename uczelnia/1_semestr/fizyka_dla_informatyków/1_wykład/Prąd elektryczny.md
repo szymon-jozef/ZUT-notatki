@@ -1,6 +1,6 @@
-[[../1_lab/Prawo omha|Prawo omha]]
-[[../1_lab/Prawa Kirchhoffa|Prawa Kirchhoffa]]
-[[Elektrony walencyjne]]
-[[Rodzaje materiałów]]
-[[Napięcie]]
-[[Twierdzenia Thevina i Nortona]]
+[Prawo omha](../1_lab/Prawo%20omha.md)
+[Prawa Kirchhoffa](../1_lab/Prawa%20Kirchhoffa.md)
+[Elektrony walencyjne](Elektrony%20walencyjne.md)
+[Rodzaje materiałów](Rodzaje%20materiałów.md)
+[Napięcie](Napięcie.md)
+[Twierdzenia Thevina i Nortona](Twierdzenia%20Thevina%20i%20Nortona.md)

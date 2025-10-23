@@ -1,3 +1,3 @@
-[[Rezystancja]]
-[[Impedancja]]
-[[Admitancja]]
+[Rezystancja](Rezystancja)
+[Impedancja](Impedancja.md)
+[Admitancja](Admitancja)

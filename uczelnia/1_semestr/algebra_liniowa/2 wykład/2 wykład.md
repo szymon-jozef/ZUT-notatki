@@ -1,6 +1,6 @@
 [Oby to mnie uratowało z tego przedmiotu…](https://www.matemaks.pl/liczby-zespolone.html)
-[[../1_wykład/Wzór de Moivre'a|Wzór de Moivre'a]]
-[[Pierwiastkowanie liczb zespolonych]]
-[[Zastosowanie liczb zespolonych w trygonometrii]]
-[[Funkcja wykładnicza argumentu zespolonego]]
-[[Wzory eulera]]
+[Wzór de Moivre'a](../1_wykład/Wzór%20de%20Moivre'a.md)
+[Pierwiastkowanie liczb zespolonych](Pierwiastkowanie%20liczb%20zespolonych.md)
+[Zastosowanie liczb zespolonych w trygonometrii](Zastosowanie%20liczb%20zespolonych%20w%20trygonometrii)
+[Funkcja wykładnicza argumentu zespolonego](Funkcja%20wykładnicza%20argumentu%20zespolonego)
+[Wzory eulera](Wzory%20eulera.md)

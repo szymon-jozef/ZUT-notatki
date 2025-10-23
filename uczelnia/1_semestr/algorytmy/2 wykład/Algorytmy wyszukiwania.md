@@ -1,2 +1,2 @@
-- [[Wyszukiwanie sekwencyjne]]
-- [[Wyszukiwanie binarne]]
+- [Wyszukiwanie sekwencyjne](Wyszukiwanie%20sekwencyjne.md)
+- [Wyszukiwanie binarne](Wyszukiwanie%20binarne.md)

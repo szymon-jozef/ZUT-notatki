@@ -1,3 +1,3 @@
 - Przesuwanie funkcji o wektor (dość proste, nie będę się opisywał)
-- [[Złożenie funkcji]]
-- [[Funkcja odwrotna]]
+- [Złożenie funkcji](Złożenie%20funkcji.md)
+- [Funkcja odwrotna](Funkcja%20odwrotna.md)

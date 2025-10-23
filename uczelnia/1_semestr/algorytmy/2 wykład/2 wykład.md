@@ -1,7 +1,7 @@
-[[Ramię robota]]
-[[Schemat tworzenia algorytmu]]
-[[Podstawy rozwiązywania problemów]]
-[[Algorytmy sortowania]]
-[[Algorytmy wyszukiwania]]
-[[Przetwarzanie napisów]]
-[[Problemy grafowe]]
+[Ramię robota](Ramię%20robota.md)
+[Schemat tworzenia algorytmu](Schemat%20tworzenia%20algorytmu.md)
+[Podstawy rozwiązywania problemów](Podstawy%20rozwiązywania%20problemów.md)
+[Algorytmy sortowania](Algorytmy%20sortowania.md)
+[Algorytmy wyszukiwania](Algorytmy%20wyszukiwania.md)
+[Przetwarzanie napisów](Przetwarzanie%20napisów.md)
+[Problemy grafowe](Problemy%20grafowe.md)

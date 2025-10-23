@@ -1,2 +1,2 @@
 To nic innego niż dzielnik napięcia.
-![[../../../../Excalidraw/układ_rc|układ_rc]]
+![układ_rc](../../../../Excalidraw/układ_rc.md)
