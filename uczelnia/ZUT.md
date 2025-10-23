@@ -1,1 +1,1 @@
-[1 semestr](1%20semestr.md)
+[1 semestr](/uczelnia/1_semestr/1%20semestr.md)

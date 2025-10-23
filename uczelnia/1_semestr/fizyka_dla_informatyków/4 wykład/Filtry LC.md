@@ -4,4 +4,4 @@ LC czyli impedacyjno-admitacyjne(?)
 - Gównoprzepustowy
 - Pasmowozaporowy
 - Pasmowoprzepustowy
-[jakieś źródło do nauki](https://forbot.pl/blog/czym-jest-filtr-lc-jak-dziala-i-kiedy-moze-sie-przydac-id40588)
+[jakieś źródło do nauki](/https://forbot.pl/blog/czym-jest-filtr-lc-jak-dziala-i-kiedy-moze-sie-przydac-id40588)

@@ -6,4 +6,4 @@ W ascii nie ma `0`, bo to oznacza koniec tekstu.
 
 Przy `scanf("%s", char zmienna[])` nie ma &, bo zmienna będąca tablicą znaków przetrzymuje już sama w sobie adres pierwszego elementu tablicy.
 
-[Strcpy](Strcpy.md)
+[Strcpy](/uczelnia/1_semestr/programowanie/2%20wykład/Strcpy.md)

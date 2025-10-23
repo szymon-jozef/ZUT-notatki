@@ -1,2 +1,2 @@
-- [Wyszukiwanie sekwencyjne](Wyszukiwanie%20sekwencyjne.md)
-- [Wyszukiwanie binarne](Wyszukiwanie%20binarne.md)
+- [Wyszukiwanie sekwencyjne](/uczelnia/1_semestr/algorytmy/2%20wykład/Wyszukiwanie%20sekwencyjne.md)
+- [Wyszukiwanie binarne](/uczelnia/1_semestr/algorytmy/2%20wykład/Wyszukiwanie%20binarne.md)

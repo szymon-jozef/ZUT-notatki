@@ -1,4 +1,4 @@
- ![Pasted image 20251003143146](Pasted%20image%2020251003143146.png)
+ ![Pasted image 20251003143146](/media/Pasted%20image%2020251003143146.png)
 - Pierwsze 2 kolory na oporniku to dwie liczby
 - 3 kolor na oporniku to wykładnik potęgi liczy 10
 - Ostatni kolor to tolerancja

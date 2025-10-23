@@ -1,2 +1,2 @@
-[Sprawność algorytmów](Sprawność%20algorytmów.md)
-[Przypadki](Przypadki.md)
+[Sprawność algorytmów](/uczelnia/1_semestr/algorytmy/3%20wykład/Sprawność%20algorytmów.md)
+[Przypadki](/uczelnia/1_semestr/algorytmy/3%20wykład/Przypadki.md)

@@ -16,4 +16,4 @@ Jeśli większy zbiega do konkretnej wartości, to mniejszy tym bardziej.
 
 To opiera się na porównywaniu do szeregu harmonicznego.
 
-[Zadania](https://www.matemaks.pl/kryterium-porownawcze.html)
+[Zadania](/https://www.matemaks.pl/kryterium-porownawcze.html)

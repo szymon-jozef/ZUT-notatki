@@ -1,1 +1,1 @@
-[Wzory na prędkość, pozycję, przyspieszenie](Wzory%20na%20prędkość,%20pozycję,%20przyspieszenie.md)
+[Wzory na prędkość, pozycję, przyspieszenie](/uczelnia/1_semestr/fizyka_dla_informatyków/2%20wykład/Wzory%20na%20prędkość,%20pozycję,%20przyspieszenie.md)
