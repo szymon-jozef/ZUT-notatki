@@ -19,6 +19,7 @@ Spis:
 - Najważniejsze, abyś zapamiętał, że **na podzespołach połączonych równolegle zawsze będzie to samo napięcie**, ponieważ są dołączone do tego samego zasilania. Natomiast **przy elementach połączonych szeregowo** suma napięć (spadków napięć) na poszczególnych elementach jest równa napięciu zasilającemu.
 - Tak po ludzku rzecz ujmując. W każdym oczku suma napięć daje 0. Oczko to jedna pełna, zamknięta "trasa" którą możemy sobie wyznaczyć w obwodzie. Czyli gdy w jednej takiej trasie dodamy wszystkie napięcia i jego utraty to wyjdzie nam zero.
 - ![Prawo_omha_i_kirchhoffa.svg](../../../Excalidraw/Prawo_omha_i_kirchhoffa.svg.svg)
+- "Jeśli zaś chodzi o kierunek strzałek to przypominam: płynący prąd obniża potencjał, a strzałki mają wskazywać potencjał wyższy. Stąd ich kierunek powinien być zawsze przeciwny do kierunku przepływu prądu, co też na powyższym obrazku doskonale widać. Wyjątkiem jest bateria, której strzałka jest zgodna z kierunkiem prądu. Dlaczego? Bo w odróżnieniu od rezystorów jest ona źródłem napięcia, a nie jego pożeraczem. Odwrotna funkcja, to i odwrotna strzałka"
 
 # Jednostki
 ## Dodatnie
