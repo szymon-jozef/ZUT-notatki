@@ -17,6 +17,8 @@ Spis:
 - Drugie prawo (napięciowe) stwierdza, że w zamkniętym obwodzie (oczku) suma sił elektromotorycznych jest równa sumie spadków napięć na wszystkich elementach, lub inaczej, że suma algebraiczna spadków napięć i sił elektromotorycznych w dowolnym oczku wynosi zero
 - Czyli inaczej to napięcie, które wypływa z zasilania musi do niego wrócić.
 - Najważniejsze, abyś zapamiętał, że **na podzespołach połączonych równolegle zawsze będzie to samo napięcie**, ponieważ są dołączone do tego samego zasilania. Natomiast **przy elementach połączonych szeregowo** suma napięć (spadków napięć) na poszczególnych elementach jest równa napięciu zasilającemu.
+- Tak po ludzku rzecz ujmując. W każdym oczku suma napięć daje 0. Oczko to jedna pełna, zamknięta "trasa" którą możemy sobie wyznaczyć w obwodzie. Czyli gdy w jednej takiej trasie dodamy wszystkie napięcia i jego utraty to wyjdzie nam zero.
+- ![Prawo_omha_i_kirchhoffa](../../../Excalidraw/Prawo_omha_i_kirchhoffa.md)
 
 # Jednostki
 ## Dodatnie

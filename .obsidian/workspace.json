@@ -13,68 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
+                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Rzeczy na wejściówkę na lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fizyka dla informatyków"
+              "title": "Rzeczy na wejściówkę na lab"
             }
           },
           {
-            "id": "4c8fd563dbbbedec",
+            "id": "0de6ed53c0468f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/1 lab.md",
+                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Rzeczy na wejściówkę na lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 lab"
+              "title": "Rzeczy na wejściówkę na lab"
             }
           },
           {
-            "id": "21efbdccb99ac3da",
+            "id": "5d8fb9be12e8b7a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/1 lab.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Prawo_omha_i_kirchhoffa.md"
               },
-              "icon": "lucide-file",
-              "title": "1 lab"
-            }
-          },
-          {
-            "id": "243ea1500714611c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uczelnia/1_semestr/algorytmy/1_wykład/1 wykład.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1 wykład"
-            }
-          },
-          {
-            "id": "fb02af80265e4b75",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Widok grafu"
+              "icon": "excalidraw-icon",
+              "title": "Prawo_omha_i_kirchhoffa"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,14 +194,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4c8fd563dbbbedec",
+  "active": "d12249aace4da7c8",
   "lastOpenFiles": [
-    "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Oporniki.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/1 lab.md",
-    "uczelnia/1_semestr/algorytmy/1_wykład/1 wykład.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/1 wykład.md",
+    "Excalidraw/Prawo_omha_i_kirchhoffa.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Rzeczy na wejściówkę na lab.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/1 lab.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Oporniki.md",
+    "uczelnia/1_semestr/algorytmy/1_wykład/1 wykład.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/1 wykład.md",
     "1 lab.md",
     "uczelnia/1_semestr/algorytmy/Algorytmy.md",
     "uczelnia/1_semestr/algorytmy/1_wykład/Zasady.md",
@@ -249,7 +223,6 @@
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szereg harmoniczny.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szeregi liczbowe.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/Matematyka ze statystyką.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/4 wykład",
     "uczelnia/1_semestr/programowanie/3 wykład/Untitled.base",
     "uczelnia/1_semestr/programowanie/3 wykład",
