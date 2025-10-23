@@ -6,10 +6,10 @@ Spis:
 
 # Kolory rezystorów
 ![Pasted image 20251023102724](/media/Pasted%20image%2020251023102724.png)
-# Prawo Omha
+# Prawo Ohma
 `U = I * R`
 
-# Prawo Kirhoffa
+# Prawo Kirchhoffa
 ## Pierwsze
 - Pierwsze prawo (prądowe) mówi, że suma prądów wpływających do węzła jest równa sumie prądów z niego wypływających (co oznacza, że algebraiczna suma prądów w węźle wynosi zero).
 - W połączeniu równoległym `I = I1 + I2 + I3 ...`
@@ -23,7 +23,7 @@ Spis:
 
 # Jednostki
 ## Dodatnie
-- 10^1 - decy
+- 10^1 - deka
 - 10^2 - hekto
 - 10^3 - kilo
 - 10^6 - mega
