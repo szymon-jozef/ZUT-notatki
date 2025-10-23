@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "f7ee7a6bd5edd8ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Prawo_omha_i_kirchhoffa.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Prawo_omha_i_kirchhoffa.excalidraw"
+            }
+          },
+          {
             "id": "0de6ed53c0468f5c",
             "type": "leaf",
             "state": {
@@ -41,10 +53,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Prawo_omha_i_kirchhoffa.md"
+                "file": "Excalidraw/Prawo_omha_i_kirchhoffa.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Prawo_omha_i_kirchhoffa"
+              "title": "Prawo_omha_i_kirchhoffa.excalidraw"
             }
           }
         ]
@@ -104,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 371
   },
   "right": {
     "id": "635fb7694c1bcea6",
@@ -196,7 +208,8 @@
   },
   "active": "d12249aace4da7c8",
   "lastOpenFiles": [
-    "Excalidraw/Prawo_omha_i_kirchhoffa.md",
+    "Excalidraw/Prawo_omha_i_kirchhoffa.excalidraw.md",
+    "Excalidraw/Przetwarzanie danych_obrazek.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/1 lab.md",
@@ -222,7 +235,6 @@
     "uczelnia/1_semestr/fizyka_dla_informatyków/4 wykład/4 wykład.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szereg harmoniczny.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szeregi liczbowe.md",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/4 wykład",
     "uczelnia/1_semestr/programowanie/3 wykład/Untitled.base",
     "uczelnia/1_semestr/programowanie/3 wykład",
