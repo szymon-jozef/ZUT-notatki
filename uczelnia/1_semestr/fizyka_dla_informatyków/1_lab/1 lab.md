@@ -1,7 +1,0 @@
-- elementy [RLC](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/RLC.md)
-- [Jednostki](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Jednostki.md)
-- [Oporniki](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Oporniki.md)
-- [Prawo omha](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Prawo%20omha.md)
-- [Prawa Kirchhoffa](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Prawa%20Kirchhoffa.md)
-- [Prowadzący](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Prowadzący.md)
-- [Zasady](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Zasady.md)

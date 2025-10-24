@@ -1,6 +1,0 @@
-[Prawo omha](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Prawo%20omha.md)
-[Prawa Kirchhoffa](/uczelnia/1_semestr/fizyka_dla_informatyków/1_lab/Prawa%20Kirchhoffa.md)
-[Elektrony walencyjne](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Elektrony%20walencyjne.md)
-[Rodzaje materiałów](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Rodzaje%20materiałów.md)
-[Napięcie](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Napięcie.md)
-[Twierdzenia Thevina i Nortona](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Twierdzenia%20Thevina%20i%20Nortona.md)

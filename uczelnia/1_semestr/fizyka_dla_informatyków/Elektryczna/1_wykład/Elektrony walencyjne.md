@@ -1,4 +1,4 @@
 - To elektrony niezwiązane z atomem, mogą przemieszczać się pomiędzy nimi.
 - Elektrony są wolne w półprzewodnikach.
-- [Dziura elektronowa](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Dziura%20elektronowa.md)
+- [Dziura elektronowa](Dziura%20elektronowa.md)
 - Przewodnictwo jonowe - całe cząsteczki się przemieszczają

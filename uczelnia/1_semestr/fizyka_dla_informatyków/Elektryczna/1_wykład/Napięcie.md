@@ -1,3 +1,3 @@
 - Napięcie to różnica potencjałów elektryczny między dwoma punktami obwodu lub pola elektrycznego.
 - Jednostką jest Volt \[V]
-- [Typy napięcia](/uczelnia/1_semestr/fizyka_dla_informatyków/1_wykład/Typy%20napięcia.md)
+- [Typy napięcia](Typy%20napięcia.md)

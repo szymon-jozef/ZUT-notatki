@@ -1,0 +1,6 @@
+[Prawo omha](Prawo%20omha.md)
+[Prawa Kirchhoffa](Prawa%20Kirchhoffa.md)
+[Elektrony walencyjne](Elektrony%20walencyjne.md)
+[Rodzaje materiałów](Rodzaje%20materiałów.md)
+[Napięcie](Napięcie.md)
+[Twierdzenia Thevina i Nortona](Twierdzenia%20Thevina%20i%20Nortona.md)
