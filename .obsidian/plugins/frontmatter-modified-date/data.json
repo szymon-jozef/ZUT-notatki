@@ -5,9 +5,11 @@
   "storeHistoryLog": false,
   "historyNewestFirst": false,
   "historyMaxItems": 0,
-  "excludedFolders": [],
+  "excludedFolders": [
+    "uczelnia"
+  ],
   "useKeyupEvents": false,
-  "onlyUpdateExisting": false,
+  "onlyUpdateExisting": true,
   "timeout": 10,
   "excludeField": "exclude_modified_update",
   "appendField": "append_modified_update",

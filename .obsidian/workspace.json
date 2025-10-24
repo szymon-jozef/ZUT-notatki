@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/Bieżące informacje.md",
+                "file": "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bieżące informacje"
+              "title": "Algebra liniowa"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
+                "file": "uczelnia/Bieżące informacje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rzeczy na wejściówkę na lab"
+              "title": "Bieżące informacje"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uczelnia/Bieżące informacje.md",
+                "file": "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bieżące informacje"
+              "title": "Backlinks for Algebra liniowa"
             }
           },
           {
@@ -186,13 +186,14 @@
   },
   "active": "2a4cc3ca2f3d3d15",
   "lastOpenFiles": [
+    "uczelnia/1_semestr/algebra_liniowa/3 wykład/Zasadnicze twierdzenie algebry.md",
+    "uczelnia/1_semestr/algebra_liniowa/3 wykład/Twierdzenie bezuta.md",
+    "uczelnia/Bieżące informacje.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/1 semestr.md",
     "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
-    "uczelnia/1_semestr/algebra_liniowa/3 wykład/Zasadnicze twierdzenie algebry.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Wielomiany.md",
-    "uczelnia/Bieżące informacje.md",
     "uczelnia/ZUT.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
