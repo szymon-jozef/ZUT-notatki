@@ -2,7 +2,8 @@
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "media",
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "newFileLocation": "current",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

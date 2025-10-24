@@ -49,19 +49,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71d616b78c773dd1",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Przeglądarka plików"
-            }
-          },
-          {
             "id": "a150f6cde24948cb",
             "type": "leaf",
             "state": {
@@ -87,8 +74,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "657d908e61a1dc34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "uczelnia/Bieżące informacje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bieżące informacje"
             }
           },
           {
@@ -171,21 +173,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otwórz okno szybkiego wyboru": false,
-      "graph:Otwórz graf": false,
-      "canvas:Stwórz nową tablicę": false,
-      "daily-notes:Otwórz codzienną notatkę": false,
-      "templates:Wstaw szablon": false,
-      "command-palette:Otwórz listę poleceń": false,
-      "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "2a4cc3ca2f3d3d15",
   "lastOpenFiles": [
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
+    "uczelnia/ZUT.md",
     "uczelnia/Bieżące informacje.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
