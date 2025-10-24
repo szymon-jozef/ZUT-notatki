@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/1_semestr/1 semestr.md",
+                "file": "uczelnia/Bieżące informacje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 semestr"
+              "title": "Bieżące informacje"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uczelnia/1_semestr/1 semestr.md",
+                "file": "uczelnia/Bieżące informacje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1 semestr"
+              "title": "Backlinks for Bieżące informacje"
             }
           },
           {
@@ -186,12 +186,12 @@
   },
   "active": "2a4cc3ca2f3d3d15",
   "lastOpenFiles": [
+    "uczelnia/1_semestr/1 semestr.md",
     "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Zasadnicze twierdzenie algebry.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Wielomiany.md",
     "uczelnia/Bieżące informacje.md",
     "uczelnia/ZUT.md",
-    "uczelnia/1_semestr/1 semestr.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
