@@ -1,4 +1,4 @@
-Półprzewodniki!
+# Półprzewodniki!
 
 Formy kształtów:
 - monokryształy
@@ -49,3 +49,38 @@ Temperaturowa zależność konduktywoności półprzewodnika
 - Warystory
 - Gaussotrony
 - Hallotrony
+
+## Zasady działania złącza PN - złącze niespolaryzowane
+Zjawiska na granicy P i N
+Dyfuzja nośników większościowych: dziury z obszaru P do N, elektrony z obszaru N do P
+nośniki większościowe --> rekombinacja w krótkim czasie
+ładunek przestrzenny -> niesokmpensowane zjonizowane atomy domieszek -> warstwa dipolowa (zaporowa) przeciwdziałająca dalszej dyfuzji nośników większościowych - bariera potencjału
+
+## Polaryzacja w kierunku zaporowym
+Zgodność napięcia zewnętrznego z biegunowością napięcia dyfuzyjnego -> wzrost bariery potencjału o wartość napięcia zewnętrznego -> rozszerzenie warstwy zaporowej
+
+Brak możliwości dyfuzji
+
+Prąd wsteczny -> bardzo mały prąd nośników mniejszościowych
+Prąd unoszenia (elektrony z P do N, dziury z N do P)
+Prąd generacji nośników w warstwie zaporowej
+
+## Złącze metal-półprzewodnik
+Rodzaje złącz MS
+- omowe
+- prostujące
+
+Każdy przyrząd półprzewodnikowy (mała rezystancja)
+Brak magazynowania nośników mniejszościowych (brak pojemności dyfuzyjnej -> złącze PN)
+Budowa "szybkich" elementów -> układy impulsowe
+
+## Zjawiska w złączu MS
+Praca wyjścia elektronów z metalu większa niż w półprzedowniku.
+Elektrony łatwiej przechodzą z półprzewodnika do metalu niż odwrotnie.
+
+# Diody
+Dioda przewodzi tylko w jedną stron! To podstawowa właściwość __każdej diody__.
+
+
+
+
