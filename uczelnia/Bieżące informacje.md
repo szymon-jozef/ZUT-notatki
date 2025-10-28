@@ -1,8 +1,9 @@
 ---
-Zmodyfikowano: 24.10.2025
+Zmodyfikowano: 28.10.2025
 ---
 # Sprawdziany/kartówki/itp
-- [Wejściówka lab fizyka](/uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy%20na%20wejściówkę%20na%20lab.md) (6.11.2025r.)
-- Kolokwium z algebry za 2/3 tygodnie (3/17.11.2025)
+- [Wejściówka lab fizyka](1_semestr/info/Rzeczy%20na%20wejściówkę%20na%20lab.md) (6.11.2025r.)
+- [[1_semestr/info/Kolokwium z algebry  (17.11.2025)]]
+- 25.11.2025 prawdopodobnie kolokwium a matematyki statystyki
 # Imprezy czy inne rzeczy
 - nwm na razie chyba nic nie ma lol

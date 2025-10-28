@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "829a4f93556e6e1b",
+        "id": "9e4540296fbe8bc0",
         "type": "tabs",
         "children": [
           {
-            "id": "fb3fb8299048594f",
+            "id": "5792e1d49e256a0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/3 wykład/3 wykład.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3 wykład"
-            }
-          },
-          {
-            "id": "c39684d84878ba5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uczelnia/Bieżące informacje.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bieżące informacje"
+              "title": "Nowa karta"
             }
           }
         ]
@@ -105,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Przeglądarka plików"
             }
           }
         ],
@@ -129,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uczelnia/1_semestr/programowanie/4 wykład/4 wykład.md",
+                "file": "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4 wykład"
+              "title": "Backlinks for Algebra liniowa"
             }
           },
           {
@@ -183,19 +145,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "9592358348091ef9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,36 +155,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz graf": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "657d908e61a1dc34",
   "lastOpenFiles": [
-    "uczelnia/Bieżące informacje.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/3 wykład/3 wykład.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/3 wykład/3 wykład.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/3 wykład",
-    "uczelnia/1_semestr/programowanie/4 wykład/4 wykład.md",
-    "uczelnia/1_semestr/info/Rzeczy na wejściówkę na lab.md",
-    "uczelnia/1_semestr/info/Kolokwium z algebry  (17.11.2025).md",
     "uczelnia/1_semestr/info",
-    "uczelnia/Kolokwium z algebry  (17.11.2025).md",
+    "uczelnia/Bieżące informacje.md",
+    "uczelnia/1_semestr/info/Kolokwium z algebry  (17.11.2025).md",
+    "uczelnia/1_semestr/programowanie/4 wykład/4 wykład.md",
     "uczelnia/1_semestr/programowanie/4 wykład/Pętla for.md",
-    "uczelnia/1_semestr/programowanie/Programowanie.md",
     "uczelnia/1_semestr/programowanie/4 wykład",
     "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Zasadnicze twierdzenie algebry.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Twierdzenie bezuta.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Rzeczy na wejściówkę na lab.md",
+    "uczelnia/1_semestr/info/Rzeczy na wejściówkę na lab.md",
     "uczelnia/1_semestr/1 semestr.md",
     "uczelnia/1_semestr/algebra_liniowa/3 wykład/Wielomiany.md",
     "uczelnia/ZUT.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/2 wykład.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Szeregi liczbowe.md",
@@ -243,7 +188,11 @@
     "Excalidraw/Drawing 2025-10-13 11.16.00.excalidraw.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/2 wykład/2 wykład.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/2 wykład/Zasada zachowania energi..md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/2 wykład/Zasady dynamiki.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna"
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/1 wykład/1 wykład.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/1 wykład/Wzory na prędkość, pozycję, przyspieszenie.md"
   ]
 }
