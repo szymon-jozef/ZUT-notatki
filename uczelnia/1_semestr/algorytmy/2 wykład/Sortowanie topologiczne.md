@@ -1,1 +1,0 @@
-Czy zestaw coś tam coś tam (nie zdążyłem przepisać trololo)

@@ -1,1 +1,0 @@
-[Zapis liczb rzeczywistych](/uczelnia/1_semestr/wprowadzenie_do_informatyki/2%20sykład/Zapis%20liczb%20rzeczywistych.md)

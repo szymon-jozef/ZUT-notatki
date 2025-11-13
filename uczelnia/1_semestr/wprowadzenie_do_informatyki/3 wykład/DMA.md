@@ -1,1 +1,0 @@
-Direct memory access - bezpośredni dostęp do pamięci, w czasie gdy magistrala nie jest sterowana przez cpu. Taki dostęp ma sterownik.

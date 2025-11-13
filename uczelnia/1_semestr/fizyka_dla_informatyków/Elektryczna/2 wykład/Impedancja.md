@@ -1,2 +1,0 @@
-Impedancja to ==całkowity opór, jaki element obwodu stawia prądowi przemiennemu==. Jest to wielkość, która uogólnia opór elektryczny (rezystancję) znany z obwodów prądu stałego. Mierzona w omach (
-), impedancja uwzględnia także właściwości pojemnościowe i indukcyjne elementów, co jest szczególnie istotne w akustyce (np. słuchawki, głośniki) i elektronice.

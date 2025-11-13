@@ -1,1 +1,0 @@
-Konkretne miejsce w pamięci nasłuchiwane przez sterownik.

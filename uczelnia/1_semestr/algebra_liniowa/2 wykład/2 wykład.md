@@ -1,6 +1,0 @@
-[Oby to mnie uratowało z tego przedmiotu…](/https://www.matemaks.pl/liczby-zespolone.html)
-[Wzór de Moivre'a](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Wzór%20de%20Moivre'a.md)
-[Pierwiastkowanie liczb zespolonych](/uczelnia/1_semestr/algebra_liniowa/2%20wykład/Pierwiastkowanie%20liczb%20zespolonych.md)
-[Zastosowanie liczb zespolonych w trygonometrii](/Zastosowanie%20liczb%20zespolonych%20w%20trygonometrii)
-[Funkcja wykładnicza argumentu zespolonego](/Funkcja%20wykładnicza%20argumentu%20zespolonego)
-[Wzory eulera](/uczelnia/1_semestr/algebra_liniowa/2%20wykład/Wzory%20eulera.md)

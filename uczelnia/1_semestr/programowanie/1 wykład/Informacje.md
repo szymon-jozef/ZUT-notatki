@@ -1,4 +1,0 @@
-- Wykłady są nieobowiązkowe
-- Zaliczenie jest przed sesją (2 terminy będą)
-- nie ma zwolnienia z zaliczenia (certyfikaty cpa/cpp/cna zwalniają)
-- język c

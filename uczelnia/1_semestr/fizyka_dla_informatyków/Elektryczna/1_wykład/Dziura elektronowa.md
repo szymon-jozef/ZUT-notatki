@@ -1,1 +1,0 @@
-Dziura elektronowa powstaje, gdy w powłoce nie ma elektronu (jest on jonizowany) - elektrony się wtedy przemieszczają.
