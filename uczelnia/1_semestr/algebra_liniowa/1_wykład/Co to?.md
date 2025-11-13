@@ -1,1 +1,0 @@
-Liczba urojona to liczba taka, że `i^2 = -1`

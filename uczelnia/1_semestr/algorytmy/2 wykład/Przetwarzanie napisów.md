@@ -1,1 +1,0 @@
-To sobie pominiemy hihi

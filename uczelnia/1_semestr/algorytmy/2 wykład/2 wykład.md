@@ -1,7 +1,0 @@
-[Ramię robota](/uczelnia/1_semestr/algorytmy/2%20wykład/Ramię%20robota.md)
-[Schemat tworzenia algorytmu](/uczelnia/1_semestr/algorytmy/2%20wykład/Schemat%20tworzenia%20algorytmu.md)
-[Podstawy rozwiązywania problemów](/uczelnia/1_semestr/algorytmy/2%20wykład/Podstawy%20rozwiązywania%20problemów.md)
-[Algorytmy sortowania](/uczelnia/1_semestr/algorytmy/2%20wykład/Algorytmy%20sortowania.md)
-[Algorytmy wyszukiwania](/uczelnia/1_semestr/algorytmy/2%20wykład/Algorytmy%20wyszukiwania.md)
-[Przetwarzanie napisów](/uczelnia/1_semestr/algorytmy/2%20wykład/Przetwarzanie%20napisów.md)
-[Problemy grafowe](/uczelnia/1_semestr/algorytmy/2%20wykład/Problemy%20grafowe.md)

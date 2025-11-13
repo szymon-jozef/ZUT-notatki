@@ -1,3 +1,0 @@
-- Przesuwanie funkcji o wektor (dość proste, nie będę się opisywał)
-- [Złożenie funkcji](/uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Złożenie%20funkcji.md)
-- [Funkcja odwrotna](/uczelnia/1_semestr/matematyka_ze_statystyką/2_wykład/Funkcja%20odwrotna.md)

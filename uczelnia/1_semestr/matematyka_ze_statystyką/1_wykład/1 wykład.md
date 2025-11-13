@@ -1,5 +1,0 @@
-- [Literatura](/uczelnia/1_semestr/matematyka_ze_statystyką/1_wykład/Literatura.md) 
-- [Zaliczenie](/uczelnia/1_semestr/matematyka_ze_statystyką/1_wykład/Zaliczenie.md)
-- [Zbiory liczbowe](/uczelnia/1_semestr/matematyka_ze_statystyką/1_wykład/Zbiory%20liczbowe.md)
-- [Ciągi](/Ciągi) (nawet nie chce mi się nic o tym pisać, bo to dość oczywiste)
-- [Granice ciągów](/Granice%20ciągów)

@@ -1,17 +1,21 @@
-# Notakti z zajęć ZUT.
+# Notatki z zajęć ZUT.
 
-## Jak się tego używa
-Do otworzenia w programie `obsidian`.
-Wszystkie pliki, są w formacie `.md`, więc teoretycznie można
-to otworzyć wszędzie, ale obsidian rysuje ładne mapy myśli. Ponadto same pliki markdown nie tworzą połączeń między plikami, których tutaj używam, a obsidian ładnie je linkuje.
+## Co to jest?
+Zbiór notatek z wykładów z ZUTu oraz zagadnień tam poruszanych.
 
-## Źródła
-Skąd są te informacje? Większość rzeczy biorę z wykładów, dodatkowo jakieś grafiki tworzę sam lub pobieram z internetu. Dodatkowo w niektórych plikach są linki do zewnętrznych źródeł. Tutaj będę zamieszczał źródła niepodlinkowane w plikach:
-- https://www.matemaks.pl/liczby-zespolone.html 
-- https://forbot.pl/blog/kurs-elektroniki-multimetr-pomiary-rezystory-id3952#gallery-6
+## Jak to działa?
+Wszystkie notatki są w formacie `md`. Tworzę je w aplikacji `obsidian` i właśnie w niej polecam je otwierać, ze względu na ładne otwieranie załączników i mapę myśli, którą obsidian na podstawie połączeń plików rysuje. Pomimo tego jest to format markdown, więc można otworzyć to w dowolnym edytorze.
 
-## Powaga
-Styl raczej niemerytoryczny. Pozdrawiam.
+## Struktura?
+Poprzednio notatki były podzielone na przedmioty i wykłady, ale tworzyło to zbędny chaos, więc aktualnie struktura wygląda tak: `semestr/przedmiot/zagadnienie.md`
+
+Dodatkowo wszystkie załączniki znajdują się w `/media/`
+
+Obrazki, które można rysować z pluginem `excalidraw` znajdują się w `/Excalidraw/`
 
 ## PR
-Jeśli bardzo chcesz, możesz stworzyć PR prostujący jakieś informacje lub uzupełniający dany temat. 
+Jeżeli bardzo masz ochotę coś poprawić, skorygować czy cokolwiek, to proszę bardzo. Musi ci się jednak bardzo nudzić w życiu, żeby poprawiać notatki jakiegoś losowego gościa... No chyba, że sam z nich korzystasz, no to wtedy mi schlebiasz. Dzięki mordo!
+
+## Styl
+W pliku powinny znajdować się informacje dotyczące konkretnego zagadnienia, najlepiej ograniczające się do tego co jest wymagane na zajęciach. Mniej merytoryczne wtręty mile widziane. Dodatkowe załączniki, odnośniki, źródła itp. bardzo mile widziane. Dobrze jest mieć się z czego uczyć i mieć w tym duży wybór!
+

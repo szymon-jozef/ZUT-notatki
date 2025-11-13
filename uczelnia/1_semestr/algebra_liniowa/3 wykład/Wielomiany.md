@@ -1,2 +1,0 @@
-[Dzielenie wielomianów](/uczelnia/1_semestr/algebra_liniowa/3%20wykład/Dzielenie%20wielomianów.md)
-[Zasadnicze twierdzenie algebry](/uczelnia/1_semestr/algebra_liniowa/3%20wykład/Zasadnicze%20twierdzenie%20algebry.md)

@@ -1,1 +1,0 @@
-Każdy przypadek pomnożony przez prawdopodobieństwo wystąpienia tego przypadku.

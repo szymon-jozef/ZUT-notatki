@@ -1,1 +1,0 @@
-Jak dotrzeć do wszystkich punktów w sieci?

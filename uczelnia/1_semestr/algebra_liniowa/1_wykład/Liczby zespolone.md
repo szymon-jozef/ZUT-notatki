@@ -1,8 +1,0 @@
-[Co to?](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Co%20to?.md)
-[Budowa](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Budowa.md)
-[Ciało algebraiczne](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Ciało%20algebraiczne.md)
-[Liczba sprzężona](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Liczba%20sprzężona.md)
-[Interpretacja geometryczna](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Interpretacja%20geometryczna.md)
-[Moduł](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Moduł.md)
-[Postać trygonometryczna](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Postać%20trygonometryczna.md)
-[Wzór de Moivre'a](/uczelnia/1_semestr/algebra_liniowa/1_wykład/Wzór%20de%20Moivre'a.md)

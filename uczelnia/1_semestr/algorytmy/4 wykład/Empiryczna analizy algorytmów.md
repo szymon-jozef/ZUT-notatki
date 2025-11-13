@@ -1,1 +1,0 @@
-Złożoność algorytmu to funkcja, więc możemy ją przedstawić na wykresie.

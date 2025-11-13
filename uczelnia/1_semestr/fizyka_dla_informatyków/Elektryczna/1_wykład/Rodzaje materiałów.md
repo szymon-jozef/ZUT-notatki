@@ -1,4 +1,0 @@
-- Izolatory
-- Przewodniki
-- Półprzewodniki
-- Nadprzewodniki (nie stawiają oporu w niskich temperaturach)

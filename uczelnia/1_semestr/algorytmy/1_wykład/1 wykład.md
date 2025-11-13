@@ -1,2 +1,0 @@
-- [Literatura](/uczelnia/1_semestr/algorytmy/1_wykład/Literatura.md)
-- [Zasady](/uczelnia/1_semestr/algorytmy/1_wykład/Zasady.md)

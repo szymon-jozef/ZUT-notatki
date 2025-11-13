@@ -1,1 +1,0 @@
-String copy, czyli `strcpy(gdzie, co);` kopiuje co, w miejsce gdzie.

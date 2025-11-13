@@ -1,7 +1,0 @@
-- elementy [RLC](RLC.md)
-- [Jednostki](Jednostki.md)
-- [Oporniki](Oporniki.md)
-- [Prawo omha](Prawo%20omha.md)
-- [Prawa Kirchhoffa](Prawa%20Kirchhoffa.md)
-- [Prowadzący](Prowadzący.md)
-- [Zasady](uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/1_lab/Zasady.md)
