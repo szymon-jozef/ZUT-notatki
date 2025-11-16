@@ -1,22 +1,23 @@
-# Spis treści
-- [[#Potęgowanie|Potęgowanie]]
-	- [[#Potęgowanie#Metoda|Metoda]]
-	- [[#Potęgowanie#Trudność|Trudność]]
-	- [[#Potęgowanie#Mnożenie/dzielenie potęgowanych liczb zespolonych|Mnożenie/dzielenie potęgowanych liczb zespolonych]]
-- [[#Pierwiastkowanie|Pierwiastkowanie]]
-	- [[#Pierwiastkowanie#Metoda|Metoda]]
-- [[#Pierwiastki kwadratowe|Pierwiastki kwadratowe]]
-	- [[#Pierwiastki kwadratowe#Czym się różnią od zwykłych?|Czym się różnią od zwykłych?]]
-	- [[#Pierwiastki kwadratowe#Jak to liczyć?|Jak to liczyć?]]
-- [[#Równania|Równania]]
-	- [[#Równania#Metoda|Metoda]]
-- [[#Równania wielomianowe|Równania wielomianowe]]
-	- [[#Równania wielomianowe#Metoda|Metoda]]
-- [[#Dzielenie wielomianów|Dzielenie wielomianów]]
-	- [[#Dzielenie wielomianów#Schemat Hornera|Schemat Hornera]]
-	- [[#Dzielenie wielomianów#Dzielenie pisemne|Dzielenie pisemne]]
-- [[#Rozwiązywanie nierówności|Rozwiązywanie nierówności]]
-		- [[#Dzielenie pisemne#Rysowanie wykresów wielomianów|Rysowanie wykresów wielomianów]]
+Spis treści
+- [Potęgowanie](#Pot%C4%99gowanie)
+	- [Metoda](#Metoda)
+	- [Trudność](#Trudno%C5%9B%C4%87)
+	- [Mnożenie/dzielenie potęgowanych liczb zespolonych](#Mno%C5%BCenie/dzielenie%20pot%C4%99gowanych%20liczb%20zespolonych)
+- [Pierwiastkowanie](#Pierwiastkowanie)
+	- [Metoda](#Metoda)
+- [Pierwiastki kwadratowe](#Pierwiastki%20kwadratowe)
+	- [Czym się różnią od zwykłych?](#Czym%20si%C4%99%20r%C3%B3%C5%BCni%C4%85%20od%20zwyk%C5%82ych?)
+	- [Jak to liczyć?](#Jak%20to%20liczy%C4%87?)
+- [Równania](#R%C3%B3wnania)
+	- [Metoda](#Metoda)
+- [Równania wielomianowe](#R%C3%B3wnania%20wielomianowe)
+	- [Metoda](#Metoda)
+- [Dzielenie wielomianów](#Dzielenie%20wielomian%C3%B3w)
+	- [Schemat Hornera](#Schemat%20Hornera)
+	- [Dzielenie pisemne](#Dzielenie%20pisemne)
+- [Rozwiązywanie nierówności](#Rozwi%C4%85zywanie%20nier%C3%B3wno%C5%9Bci)
+		- [Rysowanie wykresów wielomianów](#Rysowanie%20wykres%C3%B3w%20wielomian%C3%B3w)
+
 # Liczby zespolone
 ## Potęgowanie
 ### Metoda
