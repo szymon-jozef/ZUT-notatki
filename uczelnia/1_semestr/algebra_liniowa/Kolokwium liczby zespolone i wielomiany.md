@@ -1,41 +1,22 @@
-```insta-toc
----
-title:
-  name: Spis treści
-  level: 1
-  center: false
-exclude: ""
-style:
-  listType: dash
-omit: []
-levels:
-  min: 1
-  max: 6
----
-
 # Spis treści
-
-- Liczby zespolone
-    - Potęgowanie
-        - Metoda
-        - Trudność
-        - Mnożenie/dzielenie potęgowanych liczb zespolonych
-    - Pierwiastkowanie
-        - Metoda
-    - Pierwiastki kwadratowe
-        - Czym się różnią od zwykłych?
-        - Jak to liczyć?
-    - Równania
-        - Metoda
-    - Równania wielomianowe
-        - Metoda
-- Wielomiany
-    - Dzielenie wielomianów
-        - Schemat Hornera
-        - Dzielenie pisemne
-    - Rozwiązywanie nierówności
-        - Rysowanie wykresów wielomianów
-```
+- [[#Potęgowanie|Potęgowanie]]
+	- [[#Potęgowanie#Metoda|Metoda]]
+	- [[#Potęgowanie#Trudność|Trudność]]
+	- [[#Potęgowanie#Mnożenie/dzielenie potęgowanych liczb zespolonych|Mnożenie/dzielenie potęgowanych liczb zespolonych]]
+- [[#Pierwiastkowanie|Pierwiastkowanie]]
+	- [[#Pierwiastkowanie#Metoda|Metoda]]
+- [[#Pierwiastki kwadratowe|Pierwiastki kwadratowe]]
+	- [[#Pierwiastki kwadratowe#Czym się różnią od zwykłych?|Czym się różnią od zwykłych?]]
+	- [[#Pierwiastki kwadratowe#Jak to liczyć?|Jak to liczyć?]]
+- [[#Równania|Równania]]
+	- [[#Równania#Metoda|Metoda]]
+- [[#Równania wielomianowe|Równania wielomianowe]]
+	- [[#Równania wielomianowe#Metoda|Metoda]]
+- [[#Dzielenie wielomianów|Dzielenie wielomianów]]
+	- [[#Dzielenie wielomianów#Schemat Hornera|Schemat Hornera]]
+	- [[#Dzielenie wielomianów#Dzielenie pisemne|Dzielenie pisemne]]
+- [[#Rozwiązywanie nierówności|Rozwiązywanie nierówności]]
+		- [[#Dzielenie pisemne#Rysowanie wykresów wielomianów|Rysowanie wykresów wielomianów]]
 # Liczby zespolone
 ## Potęgowanie
 ### Metoda
