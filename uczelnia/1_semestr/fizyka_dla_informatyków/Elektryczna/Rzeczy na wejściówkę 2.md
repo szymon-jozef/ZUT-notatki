@@ -19,8 +19,10 @@ Spis treści
 	- [Działanie](#Dzia%C5%82anie)
 	- [Najważniejsze parametry tranzystorów](#Najwa%C5%BCniejsze%20parametry%20tranzystor%C3%B3w)
 	- [Stany pracy tranzystorów bipolarnych](#Stany%20pracy%20tranzystor%C3%B3w%20bipolarnych)
+	- [Zastosowanie tranzystorów](#Zastosowanie%20tranzystor%C3%B3w)
 	- [Podsumowanie](#Podsumowanie)
 		- [Tryby pracy](#Tryby%20pracy)
+
 # Diody
 ## Źródła
 - https://forbot.pl/blog/kurs-elektroniki-diody-krzemowe-oraz-diody-swiecace-led-id4251
@@ -121,6 +123,11 @@ Przy napięciu o przeciwnym znaku do tego, który obsługują, tranzystor przest
 	- **Stan aktywny** – jeśli napięcie baza-emiter wynosi co najmniej ok. 0,7 V, przez bazę płynie prąd, a rezystancja złącza kolektor-emiter ulega znacznemu zmniejszeniu. Wartość prądu kolektora w stanie przewodzenia jest proporcjonalna do prądu bazy. Stosunek prądu kolektora do prądu bazy określa wzmocnienie prądowe tranzystora. W takim trybie działania tranzystor pełni funkcję prostego wzmacniacza prądu.
 	- **Stan nasycenia** – jeśli napięcie baza-emiter jest większe niż ok. 0,7 V, to prąd bazy zostaje odpowiednio podniesiony. Wówczas rezystancja złącza kolektor-emiter jeszcze bardziej maleje. W tym przypadku wartość prądu płynącego przez kolektor jest najwyższa. Taki tranzystor zachowuje się jak przełącznik, który zwiera obwód przez minimalną możliwą rezystancję złącza kolektor-emiter. W takich warunkach wartość prądu emitera jest zbliżona do wartości prądu kolektora, ponieważ zwykle prąd sterujący bazy jest niewielki.
 
+## Zastosowanie tranzystorów
+Tranzystory mają zastosowanie w:
+- układach scalonych
+- bramkach logicznych
+- wzmacniaczach
 ## Podsumowanie
 Tranzystor to element półprzewodnikowy. Ma 3 nóżki: emiter, bazę i kolektor. Jak damy napięcie na środkową nóżkę (bazę) pojawia nam się przepływ pomiędzy dwoma pozostałymi nóżkami (emiterem i kolektorem). 
 ### Tryby pracy
@@ -130,4 +137,4 @@ Przy stanie
 - nasycenia: napięcie > 0.7v, tranzystor działa jak przełącznik
 
 
-ja pierdole jak bardzo mnie to nie obchodzi po mi ta fizyka
+ja pierdole jak bardzo mnie to nie obchodzi po co mi ta fizyka

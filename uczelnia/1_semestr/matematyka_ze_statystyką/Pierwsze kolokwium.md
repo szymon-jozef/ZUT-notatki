@@ -58,3 +58,13 @@ To musze poćwiczyć dla tych niektórych dziwnych funkcji…
 
 # Przebieg zmienności funkcji
 Duuuuże zadanie.
+## Lista rzeczy do wyznaczenia
+1. Dziedzinę.
+2. Miejsca zerowe.
+3. Punkt przecięcia z osią Oy.
+4. Granice na krańcach dziedziny.
+5. Asymptoty.
+6. Przedziały monotoniczności.
+7. Ekstrema lokalne.
+### Dziedzina
+Sprawdzamy dla jakiej liczby funkcja nie przyjmuje wartości; dla jakiej liczby z funkcji wychodzi nam wyraz nieoznaczony, taki jak np. dzielenie przez 0.
