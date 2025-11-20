@@ -1,4 +1,3 @@
-
 # Poważna notatka
 ## Źródła
 - https://forbot.pl/blog/kurs-elektroniki-diody-krzemowe-oraz-diody-swiecace-led-id4251
