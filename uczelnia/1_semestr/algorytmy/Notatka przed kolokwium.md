@@ -1,3 +1,23 @@
+# Spis treści
+- [Co to jest algorytm](#Co%20to%20jest%20algorytm)
+- [Istotne metody opisu algorytmu](#Istotne%20metody%20opisu%20algorytmu)
+	- [Schemat blokowy](#Schemat%20blokowy)
+- [Algorytm sortowania](#Algorytm%20sortowania)
+- [Sortowanie bąbelkowe](#Sortowanie%20b%C4%85belkowe)
+- [Sortowanie przez wybieranie](#Sortowanie%20przez%20wybieranie)
+- [Sortowanie przez wstawianie](#Sortowanie%20przez%20wstawianie)
+- [Złożoność obliczeniowa algorytmów](#Z%C5%82o%C5%BCono%C5%9B%C4%87%20obliczeniowa%20algorytm%C3%B3w)
+- [Źródła](#%C5%B9r%C3%B3d%C5%82a)
+- [Jak to działa](#Jak%20to%20dzia%C5%82a)
+- [Typy](#Typy)
+	- [Optymistyczna](#Optymistyczna)
+	- [Pesymistyczna](#Pesymistyczna)
+	- [Średnia](#%C5%9Arednia)
+- [Pojebane notacje](#Pojebane%20notacje)
+- [Rzędy złożoności obliczeniowej](#Rz%C4%99dy%20z%C5%82o%C5%BCono%C5%9Bci%20obliczeniowej)
+- [WAŻNE, czyli jak obliczać to gówno](#WA%C5%BBNE,%20czyli%20jak%20oblicza%C4%87%20to%20g%C3%B3wno)
+- [Algorytmy rekurencyjne](#Algorytmy%20rekurencyjne)
+- [Przerabianie iteracji na rekurencję](#Przerabianie%20iteracji%20na%20rekurencj%C4%99)
 # Algorytm
 ## Co to jest algorytm
  Algorytm - dokładny przepis podający sposób rozwiązania określonego zadania (algorytmicznego) w skończonej liczbie kolejnych kroków; zestaw poleceń odnoszących się do pewnych obiektów, ze wskazaniem porządku, w jakim mają być te polecenia realizowane.
@@ -9,7 +29,6 @@ W kontekście komputera - zestaw kroków, które maszyna ma wykonać, by osiągn
 - Formalizm matematyczny
 - Pseudokod
 - Schemat blokowy
-
 ### Schemat blokowy
 [źródło grafiki](https://www.korepetycjezinformatyki.pl/schemat-blokowy/)
 ![](../../../media/Pasted%20image%2020251202163629.png)
