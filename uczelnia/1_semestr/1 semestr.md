@@ -5,4 +5,4 @@
 [Matematyka ze statystyką](matematyka_ze_statystyką/Matematyka%20ze%20statystyką.md)
 [Programowanie](programowanie/Programowanie.md)
 [Fizyka dla informatyków](fizyka_dla_informatyków/Fizyka%20dla%20informatyków.md)
-[Wprowadzenie do informatyki](wprowadzenie_do_informatyki/Wprowadzenie%20do%20informatyki.md)
+[Wprowadzenie do informatyki](wprowadzenie_do_informatyki/historia/Wprowadzenie%20do%20informatyki.md)

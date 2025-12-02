@@ -1,0 +1,3 @@
+- 19*69* powstała pierwsze sieć komputerowa. 69 buahahha
+- amazon pierwsza księgarnia internetowa
+- frontend bakend
