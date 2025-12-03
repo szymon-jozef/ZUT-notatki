@@ -69,8 +69,8 @@ Gemini wjebał mi to:
 	- **Przykład:** W sortowaniu szybkim (Quicksort) pesymistycznie masz O(n2) (jak masz pecha), ale średnio (w 99% przypadków) masz O(nlogn). Dlatego używamy go w praktyce, mimo że teoretycznie może być wolny.
 ## Pojebane notacje
 Mamy notacje:
-- Duże O - oszacowanie z góry. Pomijamy wszelkiego rodzaju stałe
-- Ω (omega) - oszacowanie z dołu. 
+- Duże O - oszacowanie z góry. Pomijamy wszelkiego rodzaju stałe - wariant pesymityczny
+- Ω (omega) - oszacowanie z dołu -wariant optymistyczny
 - Θ (theta) - używamy, gdy algorytm zachowuje się tak samo przy O i omega, czyli oszacowania z góry i z dołu się spotykają.
 ## Rzędy złożoności obliczeniowej
 - O(1) - złożoność stała, niezależna od danych wejściowych.
