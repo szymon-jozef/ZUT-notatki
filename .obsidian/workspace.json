@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d6a068f0e3326ff",
+            "id": "108c9e1dc56f8375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
+                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/210.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fizyczna"
+              "title": "210"
             }
           },
           {
-            "id": "548f9e96dca5fa61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uczelnia/1_semestr/programowanie/Programowanie.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programowanie"
-            }
-          },
-          {
-            "id": "0e48fdcb50add5aa",
+            "id": "764aef8247306e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +55,7 @@
               "title": "209"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,28 +212,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e48fdcb50add5aa",
+  "active": "108c9e1dc56f8375",
   "lastOpenFiles": [
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/210.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/Sprawozdania.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/209.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
+    "uczelnia/1_semestr/algorytmy/Algorytmy.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Zaliczenie.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyka dla informatyków.md",
+    "uczelnia/1_semestr/algorytmy/Notatka przed kolokwium.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/historia/Wprowadzenie do informatyki.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/webowka/Webówka.md",
+    "uczelnia/1_semestr/programowanie/Programowanie.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/webowka/Historia internetu czy coś.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
+    "uczelnia/1_semestr/wprowadzenie_do_informatyki/webowka/Jsy i phpy.md",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/210.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania",
     "uczelnia/1_semestr/programowanie/structy.cpp~",
     "uczelnia/1_semestr/programowanie/test",
     "uczelnia/1_semestr/programowanie/a.out",
     "uczelnia/1_semestr/programowanie/structy.cpp",
-    "uczelnia/1_semestr/programowanie/Programowanie.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Zaliczenie.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Zaliczenie.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Fizyczna.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Fizyczna/Zasady dynamiki.md",
-    "uczelnia/1_semestr/algorytmy/Notatka przed kolokwium.md",
     "media/Pasted image 20251202163629.png",
     "media/Pasted image 20251202151437.png",
     "media/Pasted image 20251202151416.png",
     "media/Pasted image 20251202151233.png",
     "media/Pasted image 20251202145825.png",
     "media/Pasted image 20251202145610.png",
-    "uczelnia/1_semestr/algorytmy/Algorytmy.md",
     "uczelnia/1_semestr/algorytmy/Obliczanie sprawności algorytmu.md",
     "uczelnia/1_semestr/algorytmy/Podstawy algorytmiki.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Tranzystory unipolarne.md",
@@ -275,16 +257,9 @@
     "uczelnia/1_semestr/wprowadzenie_do_informatyki/laby",
     "uczelnia/1_semestr/matematyka_ze_statystyką/Pierwsze kolokwium.md",
     "uczelnia/1_semestr/matematyka_ze_statystyką/Matematyka ze statystyką.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Elektryczna.md",
     "media/Pasted image 20251120145203.png",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Diody.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Podstawy elektryki.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Prąd.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/RLC.md",
-    "media/Pasted image 20251119200743.png",
-    "uczelnia/1_semestr/matematyka_ze_statystyką/Szeregi.md",
-    "uczelnia/1_semestr/algebra_liniowa/Kolokwium liczby zespolone i wielomiany.md",
-    "uczelnia/1_semestr/algebra_liniowa/Algebra liniowa.md",
-    "Excalidraw/Drawing 2025-11-16 13.55.00.excalidraw.md"
+    "media/Pasted image 20251119200743.png"
   ]
 }
