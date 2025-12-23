@@ -1,0 +1,76 @@
+body {
+    width: 800px;
+    margin: 20px auto;
+    background-color: lightgray;
+}
+
+fieldset {
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    border: 2px solid #ddd;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+    padding: 15px;
+}
+
+legend {
+    font-weight: bold;
+}
+
+label {
+    display: inline-block;
+    width: 160px;
+    margin-bottom: 10px;
+}
+
+input {
+    transition: ease-in-out 1s;
+}
+
+input:focus {
+    transform: scale(1.125);
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="email"],
+select {
+    width: 250px;
+    padding: 5px;
+}
+
+
+input[type="radio"],
+input[type="checkbox"] {
+    width: auto;
+}
+
+textarea:required:valid,
+input:required:valid,
+select:required:valid {
+    border: 2px solid green;
+}
+
+textarea:required:invalid,
+input:required:invalid,
+select:required:invalid {
+    border: 2px solid red;
+}
+
+input:not(:required),
+textarea:not(:required) {
+    border: 1px solid #999;
+}
+
+.hobby img {
+    width: 64px;
+    height: 64px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-right: 10px;
+}

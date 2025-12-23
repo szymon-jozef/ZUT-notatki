@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Formularz</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <form>
+      <fieldset>
+        <legend>Dane osobowe</legend>
+
+        <label for="imie">Imię</label>
+        <input
+          type="text"
+          id="imie"
+          required
+          pattern="[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź]+"
+        /><br />
+        <label for="nazwisko">Nazwisko</label>
+        <input
+          type="text"
+          id="nazwisko"
+          required
+          pattern="[A-ZĄĆĘŁŃÓŚŻŹ][a-ząćęłńóśżź]+"
+        /><br />
+        <label for="data">Data urodzenia</label>
+        <input type="date" id="data_ur" name="data_ur" required /><br />
+        <label>Płeć</label>
+        <input type="radio" name="plec" value="k" required /> k
+        <input type="radio" name="plec" value="m" /> m
+      </fieldset>
+
+      <fieldset>
+        <legend>Adres</legend>
+        
+        <label for="ulica">Ulica</label>
+        <textarea name="ulica" id="ulica" required></textarea><br />
+        <label for="dom">Nr domu</label>
+        <input type="number" id="dom" min="1" required /><br />
+        <label for="lokal">Nr lokalu</label>
+        <input type="number" id="lokal" min="1" /><br />
+        <label for="kod">Kod pocztowy</label>
+        <input
+          type="text"
+          id="kod"
+          pattern="\d{2}-\d{3}"
+          placeholder="np. 12-345"
+          required
+        /><br />
+        <label for="miasto">Miasto</label>
+        <input
+          type="text"
+          id="miasto"
+          pattern="[A-ZĄĆĘŁŃÓŚŻŹ ]+"
+          placeholder="np SZCZECIN"
+          required
+        /><br />
+        <label for="woj">Województwo</label>
+        <select id="woj" required>
+          <option value="">—</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option></select
+        ><br />
+      </fieldset>
+
+      <fieldset>
+        <legend>Email</legend>
+
+        <label for="email">Adres E-mail</label>
+        <input type="email" id="email" required />
+      </fieldset>
+
+      <fieldset>
+        <legend>Hobby</legend>
+
+        <div class="hobby">
+          <label><input type="checkbox" value="linux" /> Linux</label>
+          <img src="./grafika/linux.png" alt="linux" /> <br />
+          <label><input type="checkbox" value="muzyka" /> Muzyka</label>
+          <img src="./grafika/muzyka.png" alt="muzyka" /> <br />
+          <label
+            ><input type="checkbox" value="programowanie" />
+            Programowanie</label
+          >
+          <img src="./grafika/programowanie.png" alt="programowanie" /> <br />
+          <label
+            ><input type="checkbox" value="ksiazki" /> Czytanie książek</label
+          >
+          <img src="./grafika/ksiazki.png" alt="ksiazki" /> <br />
+        </div>
+      </fieldset>
+
+      <button type="submit">Wyślij</button>
+      <button type="reset">Wyczyść formularz</button>
+    </form>
+  </body>
+</html>
