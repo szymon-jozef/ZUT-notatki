@@ -6,7 +6,6 @@ schemacik hornera (ciekawe czy horner był horny (i czy ma coś wspólnego z hor
 ![Pasted image 20251019164857](/media/Pasted%20image%2020251019164857.png)
 (hornet)
 
-
 # Zasadnicze twierdzenie algebry
 W liczbach zespolonych każde równanie ma rozwiązanie :D
 
