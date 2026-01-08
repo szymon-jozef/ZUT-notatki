@@ -11,24 +11,12 @@
             "id": "f0587f898764e671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/210.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/105.pdf"
               },
-              "icon": "lucide-file",
-              "title": "210"
+              "icon": "lucide-file-text",
+              "title": "105"
             }
           }
         ]
@@ -190,6 +178,9 @@
   },
   "active": "f0587f898764e671",
   "lastOpenFiles": [
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/112.pdf",
+    "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/112.md",
+    "media/Pasted image 20260108171659.png",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/209.md",
     "uczelnia/1_semestr/fizyka_dla_informatyków/Sprawozdania/210.md",
     "media/tabela_1.png",
@@ -231,10 +222,8 @@
     "media/Pasted image 20251202151416.png",
     "media/Pasted image 20251202151233.png",
     "media/Pasted image 20251202145825.png",
-    "media/Pasted image 20251202145610.png",
     "uczelnia/1_semestr/algorytmy/Obliczanie sprawności algorytmu.md",
     "uczelnia/1_semestr/algorytmy/Podstawy algorytmiki.md",
-    "uczelnia/1_semestr/fizyka_dla_informatyków/Elektryczna/Tranzystory unipolarne.md",
     "Bez nazwy.canvas"
   ]
 }
