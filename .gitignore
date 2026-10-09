@@ -2,8 +2,8 @@
 .obsidian
 .trash
 .idea
-*.out
-*/out
-.Rhistory
-main
+**.out
+**/out
+**/.Rhistory
 .Rproj.user
+**/target
